@@ -11,5 +11,4 @@
   Run `npm run dev` to start the development server.
   
 =======
-# jenish-portfolio
->>>>>>> 1f0c3a319f32c33567027114f44d40e6ed8a2aec
+
